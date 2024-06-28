@@ -9,6 +9,5 @@ Name: Veda Siva Vasishta Yakkala ID: 700758715
 3.Write a program, which reads heights (inches.) of customers into a list and convert these heights to centimeters in a separate list using:
   1.Nested Interactive loop.
   2.List comprehensions
-video link : https://colab.research.google.com/drive/1lSRpcLKIV92X2t6isLYwQMKmj7EQ8Eqw?usp=drive_link
-
+video link : https://drive.google.com/file/d/1DOk-hGxiG2f5_E8lW4XTkvLs_j6vGaYu/view?usp=drive_link
 Code File -Neural_Network_and_Deep_Learning_icp_2.ipynb Document- Neural Network and Deep Learning icp2.pdf
